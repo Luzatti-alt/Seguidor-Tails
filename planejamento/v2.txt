@@ -1,0 +1,14 @@
+dar um nome para este seguidor
+
+aumentar um pouco o tamanho esp tipo 3 mm para o lado
+um pouco onde fica o sensor na parte do sensor(mais "alto" e onde fica os leitores mais espaço(esta tipo na metade so))
+aumentar um pouco onde ficaria a ponte H( 3 mm largura e 1 altura)
+aumentar um pouco onde ficara os motores porem criar uma "trava"
+adicionar uma parte para engrenagem
+fazer algo para os motores ficarem mais colados
+os furos nn fica legar para uma roda boba(trocar para um roda boba impressa/ja no modelo da v2)
+add um lugar para a bateria
+melhorar a case para as peças nn voarem
+aumentar um pouco a profundidade onde ficara os componentes pcb
+
+codigo fundir html.ino com prot_seguidor_____.ino

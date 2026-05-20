@@ -1,0 +1,16 @@
+plano geral da v2
+no modelo:
+- ✅ mudar um pouco o tamanho esp na ponte H tbm e onde fica os sensores (por conta de 0,5 a 2 mm de diferença)
+- aumentar um pouco onde ficara os motores porem criar uma "trava"(próximo passo)
+- adicionar uma parte para engrenagem(esquema torque x vel)
+- onde ficara os motores ser algo mais fechado/nn ser so duas paredes
+- ✅remover furo onde ficaria a roda boba(vou fazer uma que já ira no modelo)
+- ✅add um esquema de roda boba (provavelmente usarei uma bola de pingue pong no lugar da esfera)
+- ✅add um lugar para a bateria
+- melhorar a case para as peças nn voarem
+- aumentar um pouco a profundidade onde ficara os componentes pcb
+
+
+comecei a fazer alguns códigos de teste/tentar montar como quero o codigo
+- codigo fundir html.ino com prot_seguidor_____.ino (prototipo do que sera o codigo) e remover os furo
+tenho que começar a documentação e escolher um nome
