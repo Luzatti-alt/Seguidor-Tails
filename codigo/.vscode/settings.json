@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "ESP-IDF": {
+      "source": "PowerShell",
+      "args": [
+        "-ExecutionPolicy", "Bypass",
+        "-NoExit",
+        "-File", "C:/Users/Lucas/esp/v5.5.1/esp-idf/export.ps1"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "ESP-IDF"
+}

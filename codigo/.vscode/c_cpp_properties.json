@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "ESP-IDF",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/Lucas/esp/v5.5.1/esp-idf/components/**",
+        "C:/Users/Lucas/.espressif/tools/**",
+        "seguidor/build/config"
+      ],
+      "defines": [
+        "ESP_PLATFORM",
+        "IDF_VER=\"v5.x\""
+      ],
+      "compilerPath": "C:/Users/Lucas/.rustup/toolchains/esp/xtensa-esp-elf/bin/xtensa-esp32-elf-gcc.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
